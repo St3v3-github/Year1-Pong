@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PongSFML.dir/objects.a
+C:\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\mingw64\bin\ar.exe cr CMakeFiles\PongSFML.dir/objects.a @CMakeFiles\PongSFML.dir\objects1.rsp
+C:\x86_64-7.3.0-release-posix-seh-rt_v5-rev0\mingw64\bin\g++.exe -g -static -Wl,--whole-archive CMakeFiles\PongSFML.dir/objects.a -Wl,--no-whole-archive -o PongSFML.exe -Wl,--out-implib,libPongSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PongSFML.dir\linklibs.rsp
