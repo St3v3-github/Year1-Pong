@@ -1,5 +1,5 @@
-//Menu - left and right arrow keys to select an option enter to select
+//Menu - Left+Right arrow keys to select an option, Enter to select
 
-//In Game - w and s keys control let side up and down arrow keys control right side
+//In Game - W+S keys for Left side, up+down arrow keys for Right side
 
-//q to quit
+//Q to quit
